@@ -718,16 +718,16 @@ section.lazy-placeholder:after {
 .cid-s5eY49ZkRY P {
   color: #767676;
 }
-.cid-s5hKdyuR8p {
+.cid-s5hLInD9AS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
-.cid-s5hKdyuR8p .mbr-section-subtitle {
+.cid-s5hLInD9AS .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-s5hKdyuR8p .number-wrap {
+.cid-s5hLInD9AS .number-wrap {
   color: #4f4943;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
@@ -739,7 +739,7 @@ section.lazy-placeholder:after {
   border-radius: 2px;
   max-width: 100%;
 }
-.cid-s5hKdyuR8p .number {
+.cid-s5hLInD9AS .number {
   font-style: normal;
   font-weight: 700;
   font-size: 55px;
@@ -749,12 +749,12 @@ section.lazy-placeholder:after {
   line-height: 1.3;
   color: #232323;
 }
-.cid-s5hKdyuR8p .period {
+.cid-s5hLInD9AS .period {
   display: block;
   padding-top: 2px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.cid-s5hKdyuR8p .dot {
+.cid-s5hLInD9AS .dot {
   position: absolute;
   top: -10px;
   right: -1em;
@@ -771,39 +771,39 @@ section.lazy-placeholder:after {
   word-spacing: 0;
   color: #232323;
 }
-.cid-s5hKdyuR8p .countdown-cont {
+.cid-s5hLInD9AS .countdown-cont {
   max-width: 700px;
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-s5hKdyuR8p .dot {
+  .cid-s5hLInD9AS .dot {
     display: none;
   }
 }
 @media (max-width: 543px) {
-  .cid-s5hKdyuR8p .number-wrap {
+  .cid-s5hLInD9AS .number-wrap {
     margin-bottom: 15px;
   }
 }
 @media (max-width: 550px) {
-  .cid-s5hKdyuR8p .col-xs-3 {
+  .cid-s5hLInD9AS .col-xs-3 {
     padding-left: 0;
     padding-right: 0;
     max-width: 25%;
     flex: 0 0 25%;
   }
-  .cid-s5hKdyuR8p .number-wrap {
+  .cid-s5hLInD9AS .number-wrap {
     min-width: auto;
   }
 }
 @media (max-width: 440px) {
-  .cid-s5hKdyuR8p .number,
-  .cid-s5hKdyuR8p .dot {
+  .cid-s5hLInD9AS .number,
+  .cid-s5hLInD9AS .dot {
     font-size: 40px;
   }
 }
 @media (max-width: 380px) {
-  .cid-s5hKdyuR8p .period {
+  .cid-s5hLInD9AS .period {
     font-size: 0.8rem;
   }
 }
