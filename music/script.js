@@ -16,9 +16,17 @@ new Vue({
       currentTime: null,
       isTimerPlaying: false,
       tracks: [
+        {
+          name: "Let Me Love You Mario",
+          artist: "Sia",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          source: "http://pasindu.tk/music/Let Me Love You Mario.mp3",
+          url: "http://pasindu.tk/music/digu.mp3",
+          favorited: true
+        },
         
         {
-          name: "Butterflies",
+          name: "digu dala",
           artist: "Sia",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
           source: "http://pasindu.tk/music/digu.mp3",
