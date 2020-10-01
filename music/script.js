@@ -20,8 +20,8 @@ new Vue({
           name: "Let Me Love You Mario",
           artist: "Sia",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "http://pasindu.tk/music/Let Me Love You Mario.mp3",
-          url: "http://pasindu.tk/music/Let Me Love You Mario.mp3",
+          source: "http://pasindu.tk/music/LetMe.mp3",
+          url: "http://pasindu.tk/music/LetMe.mp3",
           favorited: true
         },          
       ],
