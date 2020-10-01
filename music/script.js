@@ -23,7 +23,23 @@ new Vue({
           source: "http://pasindu.tk/music/LetMe.mp3",
           url: "http://pasindu.tk/music/LetMe.mp3",
           favorited: true
-        },          
+        },
+        {
+          name: "i",
+          artist: "Sia",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          source: "http://pasindu.tk/music/i.mp3",
+          url: "http://pasindu.tk/music/i.mp3",
+          favorited: false
+        },  
+        {
+          name: "did you ",
+          artist: "Sia",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          source: "http://pasindu.tk/music/ex.mp3",
+          url: "http://pasindu.tk/music/ex.mp3",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
