@@ -28,8 +28,8 @@ new Vue({
           name: "i",
           artist: "Sia",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "http://pasindu.tk/music/i.mp3",
-          url: "http://pasindu.tk/music/i.mp3",
+          source: "https://pasindu.tk/music/i.mp3",
+          url: "https://pasindu.tk/music/i.mp3",
           favorited: false
         },  
         {
