@@ -23,17 +23,7 @@ new Vue({
           source: "http://pasindu.tk/music/Let Me Love You Mario.mp3",
           url: "http://pasindu.tk/music/Let Me Love You Mario.mp3",
           favorited: true
-        },
-        
-        {
-          name: "digu dala",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "http://pasindu.tk/music/digu.mp3",
-          url: "http://pasindu.tk/music/digu.mp3",
-          favorited: false
-        },
-
+        },          
       ],
       currentTrack: null,
       currentTrackIndex: 0,
