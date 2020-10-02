@@ -27,7 +27,7 @@ new Vue({
           source: "https://www.pasindu.tk/music/i.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
-        }
+        },
         {
           name: "mata rawana",
           artist: "Human1",
@@ -35,7 +35,7 @@ new Vue({
           source: "https://www.pasindu.tk/music/m.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
-        }
+        },
         {
           name: "rockabye",
           artist: "Human2",
