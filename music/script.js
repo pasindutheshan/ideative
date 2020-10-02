@@ -30,7 +30,7 @@ new Vue({
         }
         {
           name: "mata rawana",
-          artist: "Human",
+          artist: "Human1",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
           source: "https://www.pasindu.tk/music/m.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
@@ -38,7 +38,7 @@ new Vue({
         }
         {
           name: "rockabye",
-          artist: "Human",
+          artist: "Human2",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://www.pasindu.tk/music/b.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
