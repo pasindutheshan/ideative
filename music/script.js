@@ -28,6 +28,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
+        {
+          name: "mata rawana",
+          artist: "Human",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          source: "https://www.pasindu.tk/music/m.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,
