@@ -36,6 +36,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
+        {
+          name: "rockabye",
+          artist: "Human",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          source: "https://www.pasindu.tk/music/b.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,
